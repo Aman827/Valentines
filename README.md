@@ -1,10 +1,11 @@
 # When you have made changes 
 
-Show the changes to the git project: `git status` 
-Add any untracked files: `git add ./*` 
-Commit files: `git commit -m "<Commit Message>"` 
-Push to github: `git push -u origin master` 
+Show the changes to the git project: `git status`<br />
+Add any untracked files: `git add ./*`<br />
+Commit files: `git commit -m "<Commit Message>"` <br />
+Push to github: `git push -u origin master` <br />
 
+git documentation: https://git-scm.com/docs
 
 # Program Workflow
 log in
@@ -16,8 +17,9 @@ disclaimer - picture
 take picture
     y/n "do you like"
 
-listNames method
+listNames method <br />
     who to send valentine to
+    https://github.com/Aman827/Valentines/issues/1 <br />
 
 select message
     premade messages to pick up
