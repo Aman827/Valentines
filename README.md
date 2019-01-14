@@ -1,9 +1,9 @@
 # When you have made changes 
 
-Show the changes to the git project: `git status`
-Add any untracked files: `git add ./*`
-Commit files: `git commit -m "<Commit Message>"`
-Push to github: `git push -u origin master`
+Show the changes to the git project: `git status` 
+Add any untracked files: `git add ./*` 
+Commit files: `git commit -m "<Commit Message>"` 
+Push to github: `git push -u origin master` 
 
 
 # Program Workflow
